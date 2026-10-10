@@ -1,0 +1,6 @@
+{
+  "name": "AI Driven Intrusion Detection System",
+  "description": "Real-time AI-powered Intrusion Detection System (IDS) monitoring network traffic, detecting cyber threats, analyzing anomalies, and preventing security breaches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
